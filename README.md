@@ -1,8 +1,8 @@
 # UMN-Sustainability-helper
-Reccommended Code Editors
+#Reccommended Code Editors:
 Visual Studio Code
 Atom
-Requirements
+#Requirements:
 In order to install dependencies and run the program locally, you'll need Node.js. You might need to restart your computer to complete the installation. Once you have Node installed, navigate into the directory your local repository is in and do the commands:
 
 npm install to install dependencies.
